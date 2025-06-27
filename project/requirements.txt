@@ -1,0 +1,6 @@
+fastapi[standard]
+python-dotenv
+pydantic_settings
+asyncpg
+tortoise-orm
+aerich
